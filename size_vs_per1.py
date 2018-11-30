@@ -7,7 +7,6 @@ grp=df1.groupby('pl_pnum')
 pl_1  =grp.get_group(1)
 pl_2  =grp.get_group(2)
 pl_3  =grp.get_group(3)
-
 pl_4  =grp.get_group(4)
 pl_5  =grp.get_group(5)
 pl_6  =grp.get_group(6)
